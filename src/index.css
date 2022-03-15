@@ -1,3 +1,29 @@
+:root {
+    --color-primary: #223747;
+    --color-secondary: #F5A261;
+}
+
+.theme-zd {
+    --color-primary: #000000;
+    --color-secondary: #F4EFE8;
+}
+
+.theme-lm {
+    --color-primary: #78BE20;
+    --color-secondary: #00151D;
+}
+
+.theme-bc {
+    --color-primary: #991932;
+    --color-secondary: #515459;
+}
+
+.theme-bm {
+    --color-primary: #223747;
+    --color-secondary: #F5A261;
+}
+
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
