@@ -3,7 +3,7 @@ export function Header({ businessUnit }) {
         <div className={getUserTheme(businessUnit)}>
             <div className="md:flex md:items-center md:justify-between bg-primary p-6">
                 <div className="flex-1 min-w-0">
-                    <h2 className="text-2xl font-bold leading-7 text-white sm:text-3xl sm:truncate">Front End Developer</h2>
+                    <h2 className="text-3xl font-bold leading-7 text-white sm:text-3xl sm:truncate">Front End Developer</h2>
                 </div>
                 <div className="mt-4 flex md:mt-0 md:ml-4">
                     <button
